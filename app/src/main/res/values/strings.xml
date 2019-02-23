@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gramify</string>
+    <string name="profile_header">Profile Header</string>
+
 </resources>
