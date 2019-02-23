@@ -45,11 +45,13 @@ The following **optional** features are implemented:
 ## Video Walkthrough Part 1
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/dgonz271/Gramify/blob/master/gramify_part1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Video Walkthrough Part 2
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/dgonz271/Gramify/blob/master/gramify_part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
